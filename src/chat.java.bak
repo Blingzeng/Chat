@@ -13,7 +13,7 @@ import javax.swing.JFrame;
 public class chat {
 	public static void  main(String[] args) {
 		
-	//这是一个聊天的程序	
+		
 		
 		
 		
